@@ -1,0 +1,23 @@
+{
+  "name": "nfter-docs",
+  "version": "1.0.0",
+  "description": "nfter document",
+  "main": "index.js",
+  "scripts": {
+    "build": "gitbook build",
+    "dev": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NFTer/docs.git"
+  },
+  "author": "Albert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NFTer/docs/issues"
+  },
+  "homepage": "https://github.com/NFTer/docs#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
